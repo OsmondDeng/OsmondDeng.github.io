@@ -1,0 +1,30 @@
+{
+  "name": "osmond-blog",
+  "version": "1.0.0",
+  "description": "Osmond Deng Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "vuepress dev docs", 
+    "build":"vuepress build docs" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmondDeng/OsmondDeng.github.io.git"
+  },
+  "keywords": [
+    "Osmond",
+    "Blog"
+  ],
+  "author": "OsmondDeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmondDeng/OsmondDeng.github.io/issues"
+  },
+  "homepage": "https://github.com/OsmondDeng/OsmondDeng.github.io#readme",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-rc.0",
+    "vue": "^3.3.12",
+    "vuepress": "2.0.0-rc.0"
+  }
+}
