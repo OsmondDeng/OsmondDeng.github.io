@@ -61,5 +61,28 @@ export const sidebarZh = {
                 }
             ],
         },
+    ],
+    '/handy/': [
+        {
+            text: '随手笔记',
+            collapsible: true,
+            children: [
+                '/handy/README.md',
+                {
+                    text: '谷歌浏览器',
+                    collapsible: true,
+                    children: [
+                        '/handy/browser/google/private-link.md',
+                    ],
+                },
+                {
+                    text: 'edge浏览器',
+                    collapsible: true,
+                    children: [
+                        '/handy/browser/edge/private-link.md',
+                    ],
+                },
+            ],
+        },
     ]
 }
