@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7bd2a15b","path":"/handy/browser/google.html","title":"谷歌浏览器","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1703126340000,"contributors":[{"name":"dengjunwen","email":"dengjw@jgsteel.cn","commits":3}]},"filePathRelative":"handy/browser/google.md"}');export{e as data};

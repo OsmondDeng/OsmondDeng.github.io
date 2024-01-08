@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0157b513","path":"/dotnet/di/declaration-period/","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1702977816000,"contributors":[{"name":"dengjunwen","email":"dengjw@jgsteel.cn","commits":1}]},"filePathRelative":"dotnet/di/declaration-period/README.md"}');export{e as data};

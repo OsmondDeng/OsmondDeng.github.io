@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fec0f884","path":"/handy/","title":"随手记","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1703126340000,"contributors":[{"name":"dengjunwen","email":"dengjw@jgsteel.cn","commits":3}]},"filePathRelative":"handy/README.md"}');export{e as data};

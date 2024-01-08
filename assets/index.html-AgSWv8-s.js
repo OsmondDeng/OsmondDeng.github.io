@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,b as o}from"./app-fNkQof-w.js";const c={},r=e("h1",{id:"hello-di-container",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-di-container","aria-hidden":"true"},"#"),o(" hello DI container")],-1),i=[r];function s(d,l){return a(),n("div",null,i)}const h=t(c,[["render",s],["__file","index.html.vue"]]);export{h as default};

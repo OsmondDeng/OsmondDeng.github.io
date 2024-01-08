@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-06651370","path":"/dotnet/log-framework/serilog/","title":"hello dotnet note","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1702977816000,"contributors":[{"name":"dengjunwen","email":"dengjw@jgsteel.cn","commits":1}]},"filePathRelative":"dotnet/log-framework/serilog/README.md"}');export{e as data};

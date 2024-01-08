@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a5d8d1c2","path":"/dotnet/cache/memory/","title":"hello dotnet note","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1702977816000,"contributors":[{"name":"dengjunwen","email":"dengjw@jgsteel.cn","commits":1}]},"filePathRelative":"dotnet/cache/memory/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,o,c as n,a as e,b as a}from"./app-fNkQof-w.js";const c={},d=e("h1",{id:"hello-dotnet-note",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-dotnet-note","aria-hidden":"true"},"#"),a(" hello dotnet note")],-1),r=[d];function s(l,_){return o(),n("div",null,r)}const i=t(c,[["render",s],["__file","index.html.vue"]]);export{i as default};
